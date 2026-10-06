@@ -1,0 +1,16 @@
+{
+  "name": "ForgetMeNot",
+  "short_name": "ForgetMeNot",
+  "description": "Money, goals, kitchen, leftovers, pets and the little things, remembered.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f6fc",
+  "theme_color": "#f2f6fc",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
